@@ -1,0 +1,24 @@
+.led-control {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.on-button {
+  background-color: blue;
+  color: white;
+  padding: 15px 40px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.off-button {
+  background-color: red;
+  color: white;
+  padding: 15px 40px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
